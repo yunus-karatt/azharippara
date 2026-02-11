@@ -1,0 +1,9 @@
+node_modules
+.env
+dist
+.DS_Store
+*.log
+tsc_errors.txt
+client/node_modules
+client/dist
+server/node_modules
